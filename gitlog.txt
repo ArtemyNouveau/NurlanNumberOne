@@ -1,0 +1,48 @@
+commit caf458653d67909b83e16b7ec37e9fa47a9f70a7 (HEAD -> dev, origin/master, master)
+Author: ArtemyNouveau <artnovkom@gmail.com>
+Date:   Fri Oct 25 14:17:30 2019 +0300
+
+    submodule added
+
+commit 20d468e38f910d434a400371a42a16ff8d72d973
+Merge: a403b08 fcc2fbb
+Author: ArtemyNouveau <artnovkom@gmail.com>
+Date:   Fri Oct 25 12:04:31 2019 +0300
+
+    Merge branch 'dev'
+
+commit fcc2fbbb04fb9b839e2a296840ecb8cdaac2a8eb (tag: v1.0, origin/dev)
+Author: ArtemyNouveau <artnovkom@gmail.com>
+Date:   Fri Oct 25 11:37:44 2019 +0300
+
+    The best feature ever
+
+commit 53b97530c413c321da0042ee70ce9dc836a8219a
+Author: ArtemyNouveau <artnovkom@gmail.com>
+Date:   Fri Oct 25 11:29:03 2019 +0300
+
+    change dump
+
+commit 47e6fbd8470475cb256b9ec3eb12b4fe5e69e49a
+Author: ArtemyNouveau <artnovkom@gmail.com>
+Date:   Wed Oct 16 14:25:50 2019 +0300
+
+    Link is fixed
+
+commit d8430df00510f35852998e72b167c38967629eca
+Author: ArtemyNouveau <artnovkom@gmail.com>
+Date:   Wed Oct 16 14:17:27 2019 +0300
+
+    Add tracking rar file
+
+commit a403b08ba75794275bc30343096e2ec58d5ce679
+Author: ArtemyNouveau <artnovkom@gmail.com>
+Date:   Wed Oct 16 13:55:07 2019 +0300
+
+    Init commit
+
+commit 0030fa22770816cbf373c57576d90819225a9be8
+Author: ArtemyNouveau <artnovkom@gmail.com>
+Date:   Wed Oct 16 13:51:33 2019 +0300
+
+    Initial commit from Create React App
