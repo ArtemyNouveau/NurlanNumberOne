@@ -1,0 +1,23 @@
+[33mcommit 47e6fbd8470475cb256b9ec3eb12b4fe5e69e49a[m[33m ([m[1;36mHEAD -> [m[1;32mdev[m[33m, [m[1;31morigin/dev[m[33m)[m
+Author: ArtemyNouveau <artnovkom@gmail.com>
+Date:   Wed Oct 16 14:25:50 2019 +0300
+
+    Link is fixed
+
+[33mcommit d8430df00510f35852998e72b167c38967629eca[m
+Author: ArtemyNouveau <artnovkom@gmail.com>
+Date:   Wed Oct 16 14:17:27 2019 +0300
+
+    Add tracking rar file
+
+[33mcommit a403b08ba75794275bc30343096e2ec58d5ce679[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m
+Author: ArtemyNouveau <artnovkom@gmail.com>
+Date:   Wed Oct 16 13:55:07 2019 +0300
+
+    Init commit
+
+[33mcommit 0030fa22770816cbf373c57576d90819225a9be8[m
+Author: ArtemyNouveau <artnovkom@gmail.com>
+Date:   Wed Oct 16 13:51:33 2019 +0300
+
+    Initial commit from Create React App
