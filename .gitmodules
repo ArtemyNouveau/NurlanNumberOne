@@ -1,0 +1,3 @@
+[submodule "subfolder"]
+	path = subfolder
+	url = https://github.com/ArtemyNouveau/Diffraction.git
